@@ -25,7 +25,7 @@ An instant messaging chat app built with React js, socket.io, Nodejs, and postgr
 ------
 
 ## Features:
-- 🎯 Signup, or login.
+- 🎯 Signin / signup.
 - 💬 Instant message online users.
 - 💾 Get the previous messages in history.
 
