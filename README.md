@@ -22,3 +22,35 @@ An instant messaging chat app built with React js, socket.io, Nodejs, and postgr
 
 <img src="https://user-images.githubusercontent.com/16297114/170220490-2fe88f6d-d6b4-4efb-bee8-0b367fbee548.png" width="300px" alt="mobile"/> <img src="https://user-images.githubusercontent.com/16297114/170220524-408ec3cb-2d4a-4476-aa47-05bf817ee0d4.png" width="300px" alt="mobile"/>
 
+------
+
+## Features:
+- 🎯 Signup, or login.
+- 💬 Instant message online users.
+- 💾 Get the previous messages in history.
+
+
+-----
+
+## Technologies used:
+- [React JS](https://reactjs.org/)
+- [Socket.io](https://socket.io/)
+- [Material UI](https://mui.com/)
+- [Formik](https://formik.org/)
+- [Yup](https://github.com/jquense/yup)
+- [Node js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Postgresql](https://www.postgresql.org/)
+- [Supabase.](https://supabase.com/)
+
+-----
+
+## Time required to build: 
+~ 1 week
+
+-----
+## Experience required:
+- 👶 Beginner 
+- 🧒🏻 Intermediate ✅
+- 🦸‍♂️ Advanced
+
