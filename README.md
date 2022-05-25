@@ -34,6 +34,8 @@ An instant messaging chat app built with React js, socket.io, Nodejs, and postgr
 
 ## Technologies used:
 - [React JS](https://reactjs.org/)
+- [React Redux](https://react-redux.js.org/)
+- [Redux toolkit](https://redux-toolkit.js.org/)
 - [Socket.io](https://socket.io/)
 - [Material UI](https://mui.com/)
 - [Formik](https://formik.org/)
